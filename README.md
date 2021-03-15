@@ -37,8 +37,7 @@ My name is Adrian Delgado, a passionate self-taught Front End Web Developer from
 <a href="https://ubuntu.com/" target="_blank"> <img src="./Ubuntu.png" alt="Ubuntu" align="left" height='36px'/> </a>
 <a href="https://www.npmjs.com/" target="_blank"> <img src="./npm.png" alt="npm" align="left" height='42px'/> </a>
 
-
-
+<br>
 
 ### 📊 Github Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriandelgg&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

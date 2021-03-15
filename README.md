@@ -4,16 +4,16 @@ My name is Adrian Delgado, a passionate self-taught Front End Web Developer from
 
 <img align="right" alt="GIF" src="./code.gif" width="410" height="280" />
 
-<a href="https://www.linkedin.com/in/adriandelgado1/">
+<a href="https://www.linkedin.com/in/adriandelgado1/" target="_blank">
   <img src="./LinkedIn.png" align="left" alt="Adrian's LinkedIn" width="22px">
 </a>
-<a href="https://www.twitter.com/cloudcoding_">
+<a href="https://www.twitter.com/cloudcoding_" target="_blank">
   <img src="./twitter1.png" align="left" alt="Adrian's Twitter" width="22px">
 </a>
-<a href="https://www.youtube.com/channel/UCci3UPQ2p4hyERNhXqAPCBw">
+<a href="https://www.youtube.com/channel/UCci3UPQ2p4hyERNhXqAPCBw" target="_blank">
   <img src="./YouTube.png" align="left" alt="Adrian's YouTube" width="22px">
 </a>
-<a href="https://www.instagram.com/cloudcoding">
+<a href="https://www.instagram.com/cloudcoding" target="_blank">
   <img src="./camera.png" align="left" alt="Adrian's Instagram" width="22px">
 </a>
 

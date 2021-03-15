@@ -19,8 +19,10 @@ My name is Adrian Delgado, a passionate self-taught Front End Web Developer from
 🌱 I’m currently learning React.js⚛ 
 
 👯 I’m looking to collaborate on a React web app!
+<br>
 
 ### 🔨 Languages and Tools:
+
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
@@ -30,10 +32,14 @@ My name is Adrian Delgado, a passionate self-taught Front End Web Developer from
 <a href="https://getbootstrap.com/" target="_blank"> <img src="./bootstrap.png" alt="BootStrap" align="left" height='42px'/> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="./Ubuntu.png" alt="Ubuntu" align="left" height='42px'/> </a>
 <a href="https://www.npmjs.com/" target="_blank"> <img src="./npm.png" alt="npm" align="left" height='42px'/> </a>
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriandelgg&theme=tokyonight&repo=THEREPOYOUWANT)](https://github.com/anuraghazra/github-readme-stats)-->
+<br>
+
+### 📊 Github Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriandelgg&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriandelgg&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriandelgg&theme=tokyonight&repo=THEREPOYOUWANT)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--💬 Ask me about ...
 📫 How to reach me: ...

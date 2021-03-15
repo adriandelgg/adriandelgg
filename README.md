@@ -2,13 +2,16 @@
 My name is Adrian Delgado, a passionate self-taught Front End Web Developer from the USA. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 <a href="">
-  <img src="" align="left" alt="Adrian Delgado | Twitter" width="22px">
+  <img src="./LinkedIn.png" align="left" alt="Adrian's LinkedIn" width="22px">
 </a>
 <a href="">
-  <img src="" align="left" alt="Adrian's YouTube" width="22px">
+  <img src="./twitter1.png" align="left" alt="Adrian's Twitter" width="22px">
 </a>
 <a href="">
-  <img src="" align="left" alt="Adrian's Instagram" width="22px">
+  <img src="./YouTube.png" align="left" alt="Adrian's YouTube" width="22px">
+</a>
+<a href="">
+  <img src="./camera.png" align="left" alt="Adrian's Instagram" width="22px">
 </a>
 
 ![visitors](https://page-views.glitch.me/badge?page_id=adriandelgg.visitor-badge)

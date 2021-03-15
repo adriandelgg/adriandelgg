@@ -1,5 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 My name is Adrian Delgado, a passionate self-taught Front End Web Developer from the USA. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+<img align="right" alt="GIF" src="./code.gif" width="400" height="280" />
 
 <a href="https://www.linkedin.com/in/adriandelgado1/">
   <img src="./LinkedIn.png" align="left" alt="Adrian's LinkedIn" width="22px">
@@ -16,9 +19,11 @@ My name is Adrian Delgado, a passionate self-taught Front End Web Developer from
 
 ![visitors](https://page-views.glitch.me/badge?page_id=adriandelgg.visitor-badge)
 
-🌱 I’m currently learning React.js⚛ 
 
-👯 I’m looking to collaborate on a React web app!
+- 🌱 I’m currently learning React.js⚛ 
+
+- 👯 I’m looking to collaborate on a React web app!
+
 <br>
 
 ### 🔨 Languages and Tools:
@@ -32,6 +37,7 @@ My name is Adrian Delgado, a passionate self-taught Front End Web Developer from
 <a href="https://getbootstrap.com/" target="_blank"> <img src="./bootstrap.png" alt="BootStrap" align="left" height='36px'/> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="./Ubuntu.png" alt="Ubuntu" align="left" height='36px'/> </a>
 <a href="https://www.npmjs.com/" target="_blank"> <img src="./npm.png" alt="npm" align="left" height='42px'/> </a>
+
 <br>
 
 ### 📊 Github Stats:

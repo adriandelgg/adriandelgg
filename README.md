@@ -8,21 +8,23 @@ My name is Adrian Delgado, a passionate self-taught Front End Web Developer from
   <img src="./LinkedIn.png" align="left" alt="Adrian's LinkedIn" width="22px">
 </a>
 <a href="https://www.twitter.com/cloudcoding_" target="_blank">
-  <img src="./twitter1.png" align="left" alt="Adrian's Twitter" width="22px">
-</a>
-<a href="https://www.youtube.com/channel/UCci3UPQ2p4hyERNhXqAPCBw" target="_blank">
-  <img src="./YouTube.png" align="left" alt="Adrian's YouTube" width="22px">
+  <img src="./Twitter.png" align="left" alt="Adrian's Twitter" width="22px">
 </a>
 <a href="https://www.instagram.com/cloudcoding" target="_blank">
-  <img src="./camera.png" align="left" alt="Adrian's Instagram" width="22px">
+  <img src="./Instagram.png" align="left" alt="Adrian's Instagram" width="22px">
+</a>
+<a href="https://www.youtube.com/channel/UCci3UPQ2p4hyERNhXqAPCBw" target="_blank">
+  <img src="./youtube.svg" align="left" alt="Adrian's YouTube" width="22px">
 </a>
 
 ![visitors](https://page-views.glitch.me/badge?page_id=adriandelgg.visitor-badge)
 
 
 🌱 I’m currently learning React.js⚛ 
-📫 How to reach me: Social media or 
-👯 I’m looking to collaborate on a React web app!
+
+📫 How to reach me: 
+
+👯 I’m looking to collaborate on a React project!
 
 
 ### 🔨 Languages and Tools:
@@ -36,6 +38,10 @@ My name is Adrian Delgado, a passionate self-taught Front End Web Developer from
 <a href="https://getbootstrap.com/" target="_blank"> <img src="./bootstrap.png" alt="BootStrap" align="left" height='36px'/> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="./Ubuntu.png" alt="Ubuntu" align="left" height='36px'/> </a>
 <a href="https://www.npmjs.com/" target="_blank"> <img src="./npm.png" alt="npm" align="left" height='42px'/> </a>
+<a href="https://mochajs.org/" target="_blank"> <img src="./Mocha.png" alt="Mocha" align="left" height='42px'/> </a>
+<a href="https://jestjs.io" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Mocha" align="left" height='34px'/> </a>
+
+
 
 <br>
 

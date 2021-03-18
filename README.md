@@ -22,7 +22,7 @@ My name is Adrian Delgado, a passionate self-taught Front End Web Developer from
 
 🌱 I’m currently learning React.js⚛ 
 
-📫 How to reach me: 
+📫 How to reach me: adriandelgado.tech@gmail.com
 
 👯 I’m looking to collaborate on a React project!
 

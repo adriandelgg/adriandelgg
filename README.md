@@ -10,7 +10,7 @@ My name is Adrian Delgado, a passionate self-taught Front End Web Developer from
 <a href="https://www.twitter.com/cloudcoding_" target="_blank">
   <img src="./Twitter.png" align="left" alt="Adrian's Twitter" width="22px">
 </a>
-<a href="https://www.instagram.com/cloudcoding" target="_blank">
+<a href="https://www.instagram.com/cloudcoding" target="_blank"> 
   <img src="./Instagram.png" align="left" alt="Adrian's Instagram" width="22px">
 </a>
 <a href="https://www.youtube.com/channel/UCci3UPQ2p4hyERNhXqAPCBw" target="_blank">

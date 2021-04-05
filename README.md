@@ -2,7 +2,7 @@
 
 My name is Adrian Delgado, a passionate self-taught Front End Web Developer from the USA. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-<img align="right" alt="GIF" src="./code.gif" width="410" height="280" />
+<img align="right" alt="GIF" src="./code.gif" width="410" height="280" /> 
 
 <a href="https://www.linkedin.com/in/adriandelgado1/" target="_blank">
   <img src="./LinkedIn.png" align="left" alt="Adrian's LinkedIn" width="22px">

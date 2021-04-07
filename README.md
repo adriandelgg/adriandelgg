@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-My name is Adrian Delgado, a passionate self-taught Front End Web Developer from the USA. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+My name is Adrian Delgado, I'm a passionate self-taught Front-End Web Developer from the US. From a young age, I've always been fascinated by computers & had a strong passion for them, but I never in my life thought I would become a developer. My dream is to work with a team of amazxing & talented individuals to create something positive that's going to impact the world forever.
 
 <img align="right" alt="GIF" src="./code.gif" width="410" height="280" />
 

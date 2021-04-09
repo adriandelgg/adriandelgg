@@ -39,7 +39,7 @@ My name is Adrian Delgado, I'm a passionate self-taught Front-End Web Developer 
 <a href="https://ubuntu.com/" target="_blank"> <img src="./Ubuntu.png" alt="Ubuntu" align="left" height='36px'/> </a>
 <a href="https://www.npmjs.com/" target="_blank"> <img src="./npm.png" alt="npm" align="left" height='42px'/> </a>
 <a href="https://mochajs.org/" target="_blank"> <img src="./Mocha.png" alt="Mocha" align="left" height='42px'/> </a>
-<a href="https://jestjs.io" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Mocha" align="left" height='34px'/> </a>
+<!-- <a href="https://jestjs.io" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest" align="left" height='34px'/> </a> -->
 
 
 

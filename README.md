@@ -47,6 +47,7 @@ My name is Adrian Delgado, I'm a passionate self-taught Front-End Web Developer 
 
 <br>
 
+
 ### 📊 Github Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriandelgg&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

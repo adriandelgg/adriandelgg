@@ -20,7 +20,7 @@ My name is Adrian Delgado, I'm a passionate self-taught Front-End Web Developer 
 ![visitors](https://page-views.glitch.me/badge?page_id=adriandelgg.visitor-badge)
 
 
-🌱 I’m currently learning React-Redux
+🌱 I’m currently learning Redux
 
 📫 How to reach me: adriandelgado.tech@gmail.com
 

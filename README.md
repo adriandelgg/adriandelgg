@@ -26,6 +26,10 @@ My name is Adrian Delgado, I'm a self-taught Front-End Software Engineer in the 
 
 📫 Reach me at: adriandelgado.tech@gmail.com
 
+🎨 My portoflio site: www.adriandelgado.dev
+
+🪙 My proudest project: www.xvscalculator.com
+
  
  
  

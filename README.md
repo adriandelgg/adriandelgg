@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-My name is Adrian Delgado, I'm a passionate self-taught Front-End Software Engineer from the US. Since a young age, I've always been fascinated by computers & had a strong passion for them. I'm currently a freelance web developer & computer technician. My dream is to create something that's going to impact the world forever.🌎
+My name is Adrian Delgado, I'm a self-taught Front-End Software Engineer in the US. Since a young age, I've always been fascinated by computers & had a strong passion for them. I'm currently a freelance web developer & computer technician. My dream is to create something that's going to impact the world forever.🌎
 
 <img align="right" alt="GIF" src="./code.gif" width="410" height="280" />
 
@@ -20,12 +20,14 @@ My name is Adrian Delgado, I'm a passionate self-taught Front-End Software Engin
 ![visitors](https://page-views.glitch.me/badge?page_id=adriandelgg.visitor-badge)
 
 
-🌱 I’m currently creationg a React-Redux eCommerce site!
+🌱 I’m currently learning SQL!
 
-📫 How to reach me: adriandelgado.tech@gmail.com
+🤝 I'm also actively seeking a Front-End Web Developer position!
 
-👯 I’m looking to collaborate on a React project!
+📫 Reach me at: adriandelgado.tech@gmail.com
 
+ 
+ 
  
 ### 🔨 Languages and Tools:   
 

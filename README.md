@@ -20,7 +20,7 @@ My name is Adrian Delgado, I'm a self-taught Front-End Software Engineer in the 
 ![visitors](https://page-views.glitch.me/badge?page_id=adriandelgg.visitor-badge)
 
 
-🌱 I’m currently learning SQL!
+🌱 I’m currently learning MySQL!
 
 🤝 I'm actively seeking a Front-End Web Developer position!
 

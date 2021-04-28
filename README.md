@@ -30,7 +30,7 @@ My name is Adrian Delgado, I'm a self-taught Front-End Software Engineer in the 
 
 🪙 My proudest project: <a href="https://adriandelgado.dev" target="_blank">www.xvscalculator.com</a>
 
-⚡ Fun fact: I love hiking & playing chess.⛰♟️
+⚡ Fun fact: I love hiking & playing chess. ⛰♟️
  
  
 ### 🔨 Languages and Tools:   

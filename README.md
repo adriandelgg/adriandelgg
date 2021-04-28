@@ -22,7 +22,7 @@ My name is Adrian Delgado, I'm a self-taught Front-End Software Engineer in the 
 
 🌱 I’m currently learning SQL!
 
-🤝 I'm also actively seeking a Front-End Web Developer position!
+🤝 I'm actively seeking a Front-End Web Developer position!
 
 📫 Reach me at: adriandelgado.tech@gmail.com
 
@@ -30,7 +30,7 @@ My name is Adrian Delgado, I'm a self-taught Front-End Software Engineer in the 
 
 🪙 My proudest project: <a href="https://adriandelgado.dev" target="_blank">www.xvscalculator.com</a>
 
- 
+⚡ Fun fact: I love hiking & playing chess.⛰♟️
  
  
 ### 🔨 Languages and Tools:   

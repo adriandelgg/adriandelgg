@@ -22,13 +22,13 @@ My name is Adrian Delgado, I'm a self-taught Front-End Software Engineer in the 
 
 🌱 I’m currently learning MySQL!
 
-🤝 I'm actively seeking a Front-End Web Developer position!
+🤝 I'm actively seeking a Front-End Web Developer position, if you'd like to hire me, please reach me at my email.
 
 📫 Reach me at: adriandelgado.tech@gmail.com
 
-🎨 My portoflio site: <a href="https://adriandelgado.dev" target="_blank">www.adriandelgado.dev</a>
+🎨 My portoflio site: www.adriandelgado.dev
 
-🪙 My proudest project: <a href="https://adriandelgado.dev" target="_blank">www.xvscalculator.com</a>
+🪙 My proudest project: www.xvscalculator.com
 
 ⚡ Fun fact: I love hiking & playing chess. ⛰♟️
  

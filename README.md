@@ -22,7 +22,7 @@ My name is Adrian Delgado, I'm a self-taught Front-End Software Engineer in the 
 
 🌱 I’m currently learning Blockchain Development!
 
-🤝 I'm actively seeking a Front-End Web Developer position, if you'd like to hire me, please reach me at my email.
+🤝 I'm seeking a position as a Front-End Web Developer, if you'd like to hire me, please reach me at my email.
 
 📫 Reach me at: adriandelgado.tech@gmail.com
 

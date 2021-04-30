@@ -28,7 +28,7 @@ My name is Adrian Delgado, I'm a self-taught Front-End Software Engineer in the 
 
 🎨 My portoflio site: www.adriandelgado.dev
 
-🪙 My proudest project: www.xvscalculator.com
+🏆 My proudest project: www.xvscalculator.com
 
 ⚡ Fun fact: I love hiking & playing chess. ⛰♟️
  

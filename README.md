@@ -20,7 +20,7 @@ My name is Adrian Delgado, I'm a self-taught Front-End Software Engineer in the 
 ![visitors](https://page-views.glitch.me/badge?page_id=adriandelgg.visitor-badge)
 
 
-🌱 I’m currently learning Blockchain Development!🪙
+🪙 I’m currently learning Blockchain Development!
 
 🤝 I'm seeking a position as a Front-End Web Developer, if you'd like to hire me, please reach me at my email.
 

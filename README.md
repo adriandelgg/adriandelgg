@@ -20,7 +20,7 @@ My name is Adrian Delgado, I'm a self-taught Front-End & Blockchain Software Eng
 ![visitors](https://page-views.glitch.me/badge?page_id=adriandelgg.visitor-badge)
 
 
-⛓ I’m currently learning Blockchain Development!
+⛓ I’m currently learning Solidity & Web3.js!
 
 🤝 I'm seeking employment as a Front-End Web Developer or Blockchain Developer. If you'd like to hire me, please reach me at my email.
 

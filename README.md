@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-My name is Adrian Delgado, I'm a self-taught Front-End Software Engineer in the US. Since a young age, I've always been fascinated by computers & had a strong passion for them. I'm currently a freelance web developer & computer technician. My dream is to create something that's going to impact the world forever.🌎
+My name is Adrian Delgado, I'm a self-taught Front-End & Blockchain Software Engineer in the US. Since a young age, I've always been fascinated by computers & had a strong passion for them. I'm currently a freelance web developer & computer technician. My dream is to create something that's going to impact the world forever.🌎
 
 <img align="right" alt="GIF" src="./code.gif" width="410" height="280" />
 

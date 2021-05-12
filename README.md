@@ -62,6 +62,5 @@ My name is Adrian Delgado, I'm a self-taught Front-End & Blockchain Software Eng
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriandelgg&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriandelgg&theme=tokyonight&repo=THEREPOYOUWANT)](https://github.com/anuraghazra/github-readme-stats)-->
-
 <!--💬 Ask me about ...
 ⚡ Fun fact: ... -->

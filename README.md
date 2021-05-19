@@ -22,7 +22,7 @@ My name is Adrian Delgado, I'm a self-taught Front-End & Blockchain Software Eng
 
 ⛓ I’m currently learning Solidity & Web3.js!
 
-🤝 I'm seeking employment as a Front-End Web Developer or Blockchain Developer. If you'd like to hire me, please reach me at my email.
+🤝 I'm currently working as a Blockchain Developer!
 
 📫 Reach me at: adriandelgado.tech@gmail.com
 

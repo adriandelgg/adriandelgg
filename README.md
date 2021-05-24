@@ -48,9 +48,11 @@ My dream is to create something that's going to impact the world forever using b
 <a href="https://ubuntu.com/" target="_blank"><img src="./Ubuntu.png" alt="Ubuntu" align="left" height='36px'/></a>
 <a href="https://www.npmjs.com/" target="_blank"><img src="./npm.png" alt="npm" align="left" height='42px'/></a>
 <a href="https://mochajs.org/" target="_blank"><img src="./Mocha.png" alt="Mocha" align="left" height='42px'/></a>
+<a href="https://jestjs.io" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest" align="left" height='34px'/> </a>
+<a href="https://jestjs.io" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest" align="left" height='34px'/> </a>
 
-<!-- <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
- <a href="https://jestjs.io" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest" align="left" height='34px'/> </a> -->
+
+<!--<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> -->
 
 
 

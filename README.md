@@ -44,6 +44,7 @@ My dream is to create something that's going to impact the world forever using b
 <a href="https://web3js.readthedocs.io/en/v1.3.4/" target="_blank"> <img src="./web3js.jpg" alt="Web3.js" align="left" height='34px'/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="./sql.svg" alt="SQL" align="left" height='34px'/></a>
+<a href="https://nextjs.org/" target="_blank"> <img src="./nextjs.png" alt="Next.js" align="left" height='34px'/></a>
 <a href="https://jestjs.io" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest" align="left" height='34px'/></a>
 <a href="https://material-ui.com/" target="_blank"><img align="left" alt="Material UI" height ="42px" src="./materialui.svg"></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="./bootstrap.png" alt="BootStrap" align="left" height='36px'/></a>

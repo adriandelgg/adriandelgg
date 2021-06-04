@@ -15,9 +15,7 @@ My dream is to create something that's going to impact the world forever using b
 <a href="https://www.instagram.com/cloudcoding" target="_blank"> 
   <img src="./Instagram.png" align="left" alt="Adrian's Instagram" width="22px">
 </a>
-<a href="https://www.youtube.com/channel/UCci3UPQ2p4hyERNhXqAPCBw" target="_blank">
-  <img src="./youtube.svg" align="left" alt="Adrian's YouTube" width="22px">
-</a>
+
 
 ![visitors](https://page-views.glitch.me/badge?page_id=adriandelgg.visitor-badge)
 
@@ -55,7 +53,10 @@ My dream is to create something that's going to impact the world forever using b
 
 
 <!--<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 
-<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/></a> -->
+<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/></a> 
+<a href="https://www.youtube.com/channel/UCci3UPQ2p4hyERNhXqAPCBw" target="_blank">
+  <img src="./youtube.svg" align="left" alt="Adrian's YouTube" width="22px">
+</a>-->
 
 
 <br>

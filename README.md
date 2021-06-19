@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-My name is Adrian Delgado, I'm a self-taught Blockchain & Front-End Software Engineer in the US. Since the age of 3, I've always been fascinated by computers & loved spending hours playing on them. I'm currently working as a Blockchain Developer, freelance Front-End Web Developer, & Computer Technician.👨‍💻🖥️🔧 
+My name is Adrian Delgado, I'm a self-taught Full-Stack Blockchain Software Engineer. Since the age of 3, I've always been fascinated by computers & loved spending hours playing on them. I'm currently working as a Blockchain Developer, freelance Front-End Web Developer, & Computer Technician.👨‍💻🖥️🔧 
 
 My dream is to create something that's going to impact the world forever using blockchain technology.🌎
 
@@ -20,7 +20,7 @@ My dream is to create something that's going to impact the world forever using b
 ![visitors](https://page-views.glitch.me/badge?page_id=adriandelgg.visitor-badge)
 
 
-⛓ I’m currently building a decentralized NFT exchange with Solidity, Web3.js, Truffle, React, Redux, & more!
+⛓ I’m currently creating a decentralized NFT exchange with Solidity, Web3.js, Truffle, React, Redux, & more!
 
 🤝 I'm looking to connect with more blockchain developers!
 

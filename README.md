@@ -35,20 +35,20 @@ My dream is to create something that's going to impact the world forever using b
  
 ### 🔨 Languages and Tools:   
 
+<a href="https://docs.soliditylang.org/en/v0.8.4/#" target="_blank"> <img src="./solidity.svg" alt="Solidity" align="left" height='34px'/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="./typescript.svg"></a>
+<img align="left" alt="Ethers.js" height ="42px" src="./ethers.svg">
+<img align="left" alt="Hardhat" height ="42px" src="./hardhat.svg">
+<img align="left" alt="Truffle" height ="42px" src="./truffle.svg">
 <a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height ="42px" src="./react.svg"></a>
+<a href="https://redux.js.org/" target="_blank"><img align="left" alt="Redux" height ="42px" src="./redux.svg"></a>
 <img align="left" alt="REST APIs" height ="42px" src="./api.svg">
 <img align="left" alt="Bash" height ="42px" src="./bash.svg">
 <img align="left" alt="Chai" height ="42px" src="./chai.svg">
-<img align="left" alt="Ethers.js" height ="42px" src="./ethers.svg">
 <img align="left" alt="CSS3" height ="42px" src="./css.svg">
-<img align="left" alt="Hardhat" height ="42px" src="./hardhat.svg">
 <img align="left" alt="HTML5" height ="42px" src="./html.svg">
 <img align="left" alt="IPFS" height ="42px" src="./ipfs.svg">
 <img align="left" alt="Tailwind CSS" height ="42px" src="./tailwindcss.svg">
-<img align="left" alt="Truffle" height ="42px" src="./truffle.svg">
-<a href="https://redux.js.org/" target="_blank"><img align="left" alt="Redux" height ="42px" src="./redux.svg"></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="./typescript.svg"></a>
-<a href="https://docs.soliditylang.org/en/v0.8.4/#" target="_blank"> <img src="./solidity.svg" alt="Solidity" align="left" height='34px'/></a>
 <a href="https://web3js.readthedocs.io/en/v1.3.4/" target="_blank"> <img src="./web3js.svg" alt="Web3.js" align="left" height='34px'/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height ="42px"  src="./javascript.svg"></a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="./sql.svg" alt="SQL" align="left" height='34px'/></a>
@@ -61,12 +61,6 @@ My dream is to create something that's going to impact the world forever using b
 <a href="https://www.npmjs.com/" target="_blank"><img src="./npm.svg" alt="npm" align="left" height='42px'/></a>
 <a href="https://mochajs.org/" target="_blank"><img src="./mochajs.svg" alt="Mocha" align="left" height='42px'/></a>
 
-
-<!--<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 
-<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/></a> 
-<a href="https://www.youtube.com/channel/UCci3UPQ2p4hyERNhXqAPCBw" target="_blank">
-  <img src="./youtube.svg" align="left" alt="Adrian's YouTube" width="22px">
-</a>-->
 
 
 <br>
@@ -83,3 +77,9 @@ My dream is to create something that's going to impact the world forever using b
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriandelgg&theme=tokyonight&repo=THEREPOYOUWANT)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--💬 Ask me about ...
 ⚡ Fun fact: ... -->
+
+<!--<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 
+<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/></a> 
+<a href="https://www.youtube.com/channel/UCci3UPQ2p4hyERNhXqAPCBw" target="_blank">
+  <img src="./youtube.svg" align="left" alt="Adrian's YouTube" width="22px">
+</a>-->

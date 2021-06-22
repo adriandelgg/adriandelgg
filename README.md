@@ -43,7 +43,7 @@ My dream is to create something that's going to impact the world forever using b
 <a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height ="42px" src="./react.svg"></a>
 <a href="https://redux.js.org/" target="_blank"><img align="left" alt="Redux" height ="42px" src="./redux.svg"></a>
 <img align="left" alt="REST APIs" height ="42px" src="./api.svg">
-<img align="left" alt="Bash" height ="42px" src="./bash.svg">
+<img align="left" alt="Bash" height ="42px" style="margin: .25em" src="./bash.svg">
 <img align="left" alt="Chai" height ="42px" src="./chai.svg">
 <img align="left" alt="CSS3" height ="42px" src="./css.svg">
 <img align="left" alt="HTML5" height ="42px" src="./html.svg">

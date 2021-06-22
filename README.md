@@ -35,21 +35,31 @@ My dream is to create something that's going to impact the world forever using b
  
 ### 🔨 Languages and Tools:   
 
-<a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a> 
+<a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height ="42px" src="./react.svg"></a>
+<img align="left" alt="REST APIs" height ="42px" src="./api.svg">
+<img align="left" alt="Bash" height ="42px" src="./bash.svg">
+<img align="left" alt="Chai" height ="42px" src="./chai.svg">
+<img align="left" alt="Ethers.js" height ="42px" src="./ethers.svg">
+<img align="left" alt="CSS3" height ="42px" src="./css.svg">
+<img align="left" alt="Hardhat" height ="42px" src="./hardhat.svg">
+<img align="left" alt="HTML5" height ="42px" src="./html.svg">
+<img align="left" alt="IPFS" height ="42px" src="./ipfs.svg">
+<img align="left" alt="Tailwind CSS" height ="42px" src="./tailwindcss.svg">
+<img align="left" alt="Truffle" height ="42px" src="./truffle.svg">
 <a href="https://redux.js.org/" target="_blank"><img align="left" alt="Redux" height ="42px" src="./redux.svg"></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://docs.soliditylang.org/en/v0.8.4/#" target="_blank"> <img src="./Solidity.png" alt="Solidity" align="left" height='34px'/></a>
-<a href="https://web3js.readthedocs.io/en/v1.3.4/" target="_blank"> <img src="./web3js.jpg" alt="Web3.js" align="left" height='34px'/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="./typescript.svg"></a>
+<a href="https://docs.soliditylang.org/en/v0.8.4/#" target="_blank"> <img src="./solidity.svg" alt="Solidity" align="left" height='34px'/></a>
+<a href="https://web3js.readthedocs.io/en/v1.3.4/" target="_blank"> <img src="./web3js.svg" alt="Web3.js" align="left" height='34px'/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height ="42px"  src="./javascript.svg"></a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="./sql.svg" alt="SQL" align="left" height='34px'/></a>
 <a href="https://nextjs.org/" target="_blank"> <img src="./nextjs.png" alt="Next.js" align="left" height='34px'/></a>
-<a href="https://jestjs.io" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest" align="left" height='34px'/></a>
+<a href="https://jestjs.io" target="_blank"> <img src="./jest.svg" alt="Jest" align="left" height='34px'/></a>
 <a href="https://material-ui.com/" target="_blank"><img align="left" alt="Material UI" height ="42px" src="./materialui.svg"></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="./bootstrap.png" alt="BootStrap" align="left" height='36px'/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/></a>
-<a href="https://ubuntu.com/" target="_blank"><img src="./Ubuntu.png" alt="Ubuntu" align="left" height='36px'/></a>
-<a href="https://www.npmjs.com/" target="_blank"><img src="./npm.png" alt="npm" align="left" height='42px'/></a>
-<a href="https://mochajs.org/" target="_blank"><img src="./Mocha.png" alt="Mocha" align="left" height='42px'/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="./git.svg" align="left" alt="git" height='42px'/></a>
+<a href="https://ubuntu.com/" target="_blank"><img src="./ubuntu.svg" alt="Ubuntu" align="left" height='36px'/></a>
+<a href="https://www.npmjs.com/" target="_blank"><img src="./npm.svg" alt="npm" align="left" height='42px'/></a>
+<a href="https://mochajs.org/" target="_blank"><img src="./mochajs.svg" alt="Mocha" align="left" height='42px'/></a>
 
 
 <!--<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 

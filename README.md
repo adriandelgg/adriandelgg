@@ -36,11 +36,11 @@ My dream is to create something that's going to impact the world forever using b
 ### 🔨 Languages and Tools:   
 
 <a href="https://docs.soliditylang.org/en/v0.8.4/#" target="_blank"> <img src="./solidity.svg" alt="Solidity" align="left" height='34px'/></a>
+<a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height ="42px" src="./react.svg"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="./typescript.svg"></a>
 <img align="left" alt="Ethers.js" height ="42px" src="./ethers.svg">
 <img align="left" alt="Hardhat" height ="42px" src="./hardhat.svg">
 <img align="left" alt="Truffle" height ="42px" src="./truffle.svg">
-<a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height ="42px" src="./react.svg"></a>
 <a href="https://redux.js.org/" target="_blank"><img align="left" alt="Redux" height ="42px" src="./redux.svg"></a>
 <img align="left" alt="REST APIs" height ="42px" src="./api.svg">
 <img align="left" alt="Bash" height ="42px" src="./bash.svg">

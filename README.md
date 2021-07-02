@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-My name is Adrian Delgado, I'm a self-taught Full-Stack Blockchain Software Engineer. Since the age of 3, I've always been fascinated by computers & loved spending hours playing on them. I'm currently working as a Blockchain Developer, freelance Front-End Web Developer, & Computer Technician.👨‍💻🖥️🔧 
+My name is Adrian Delgado, I'm a self-taught Full-Stack Blockchain Software Engineer and Content Creator. Since the age of 3, I've always been fascinated by computers & loved spending hours playing on them. I'm currently working as a Blockchain Developer, freelance Front-End Web Developer, & Computer Technician.👨‍💻🖥️🔧 
 
 My dream is to create something that's going to impact the world forever using blockchain technology.🌎
 
@@ -9,11 +9,14 @@ My dream is to create something that's going to impact the world forever using b
 <a href="https://www.linkedin.com/in/adriandelgado1/" target="_blank">
   <img src="./LinkedIn.png" align="left" alt="Adrian's LinkedIn" width="22px">
 </a>
-<a href="https://www.twitter.com/cloudcoding_" target="_blank">
-  <img src="./Twitter.png" align="left" alt="Adrian's Twitter" width="22px">
+<a href="https://www.youtube.com/channel/UCci3UPQ2p4hyERNhXqAPCBw" target="_blank">
+  <img src="./youtube.svg" align="left" alt="Adrian's YouTube" width="22px">
 </a>
-<a href="https://www.instagram.com/cloudcoding" target="_blank"> 
+<a href="https://www.instagram.com/codeonblocks" target="_blank"> 
   <img src="./Instagram.png" align="left" alt="Adrian's Instagram" width="22px">
+</a>
+<a href="https://www.twitter.com/codeonblocks" target="_blank">
+  <img src="./Twitter.png" align="left" alt="Adrian's Twitter" width="22px">
 </a>
 
 
@@ -74,12 +77,8 @@ My dream is to create something that's going to impact the world forever using b
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriandelgg&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriandelgg&theme=tokyonight&repo=THEREPOYOUWANT)](https://github.com/anuraghazra/github-readme-stats)-->
-<!--💬 Ask me about ...
-⚡ Fun fact: ... -->
+<!--💬 Ask me about ... -->
 
 <!--<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 
 <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/></a> 
-<a href="https://www.youtube.com/channel/UCci3UPQ2p4hyERNhXqAPCBw" target="_blank">
-  <img src="./youtube.svg" align="left" alt="Adrian's YouTube" width="22px">
-</a>-->
+-->

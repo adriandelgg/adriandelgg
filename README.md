@@ -27,13 +27,15 @@ My dream is to create something that's going to impact the world forever using b
 
 🤝 I'm looking to connect with more blockchain developers!
 
+💬 Ask me about Blockchain Consulting or developing an application for you. 
+
 📫 Reach me at: adriandelgado.tech@gmail.com
 
 🎨 My portoflio site: www.adriandelgado.dev
 
-🏆 My proudest project: www.xvscalculator.com
+🏆 My proudest project: https://nft-dex.vercel.app/
 
-⚡ Fun fact: I love hiking, crypto, learning, & playing chess.⛰📈♟️
+⚡ Fun fact: I hiking, crypto, learning, & playing chess.⛰📈♟️
  
  
 ### 🔨 Languages and Tools:   
@@ -45,6 +47,7 @@ My dream is to create something that's going to impact the world forever using b
 <img align="left" alt="Hardhat" height ="42px" src="./hardhat.svg">
 <img align="left" alt="Truffle" height ="42px" src="./truffle.svg">
 <a href="https://redux.js.org/" target="_blank"><img align="left" alt="Redux" height ="42px" src="./redux.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 
 <img align="left" alt="REST APIs" height ="42px" src="./api.svg">
 <img align="left" alt="Bash" height ="42px" src="./bash.svg">
 <img align="left" alt="Chai" height ="42px" src="./chai.svg">
@@ -77,8 +80,6 @@ My dream is to create something that's going to impact the world forever using b
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriandelgg&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--💬 Ask me about ... -->
-
-<!--<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 
+<!-- 
 <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/></a> 
 -->

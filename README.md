@@ -35,7 +35,7 @@ My dream is to create something that's going to impact the world forever using b
 
 🏆 My proudest project: https://nft-dex.vercel.app/
 
-⚡ Fun fact: I hiking, crypto, learning, & playing chess.⛰📈♟️
+⚡ Fun fact: I hiking, crypto, learning, & playing chess.⛰📈♟️ 
  
  
 ### 🔨 Languages and Tools:   

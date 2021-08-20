@@ -23,8 +23,6 @@ My dream is to create something that's going to impact the world forever using b
 ![visitors](https://page-views.glitch.me/badge?page_id=adriandelgg.visitor-badge)
 
 
-⛓ I’m currently creating a decentralized NFT exchange with Solidity, Web3.js, Truffle, React, Redux, & more!
-
 🤝 I'm looking to connect with more blockchain developers!
 
 💬 Ask me about Blockchain Consulting or developing an application for you. 

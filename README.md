@@ -1,6 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-My name is Adrian Delgado, I'm a self-taught Full-Stack Blockchain Software Engineer and Content Creator. Since the age of 2, I've always been fascinated by computers & loved spending hours playing on them. I'm currently working as a Blockchain Developer & Consultant, Web Developer, & Computer Technician.👨‍💻🖥️🔧 
+My name is Adrian Delgado, I'm a self-taught Full-Stack Blockchain Software Engineer and Content Creator.
+Since the age of 2, I've always been fascinated by computers & loved spending hours playing on them. 
+I'm currently working as a Blockchain Developer & Consultant, Web Developer, & Computer Technician.👨‍💻🖥️🔧 
 
 My dream is to create something that's going to impact the world forever using blockchain technology.🌎
 

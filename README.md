@@ -11,7 +11,7 @@ My dream is to impact the world forever using blockchain technology.🌎
 <a href="https://www.linkedin.com/in/adriandelgado1/" target="_blank">
   <img src="./LinkedIn.png" align="left" alt="Adrian's LinkedIn" width="22px">
 </a>
-<a href="https://www.youtube.com/channel/UCci3UPQ2p4hyERNhXqAPCBw" target="_blank">
+<a href="https://www.youtube.com/c/codeonblocks" target="_blank">
   <img src="./youtube.svg" align="left" alt="Adrian's YouTube" width="22px">
 </a>
 <a href="https://www.instagram.com/codeonblocks" target="_blank"> 

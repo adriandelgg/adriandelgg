@@ -1,6 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
 My name is Adrian Delgado, I'm a self-taught Full-Stack Blockchain Software Engineer and Content Creator.
+
 Since the age of 2, I've always been fascinated by computers & loved spending hours playing on them. 
 I'm currently working as a Blockchain Developer & Consultant, Web Developer, & Computer Technician.👨‍💻🖥️🔧 
 
@@ -21,18 +22,19 @@ My dream is to impact the world forever using blockchain technology.🌎
 
 ![visitors](https://page-views.glitch.me/badge?page_id=adriandelgg.visitor-badge)
 
-
 🤝 I'm looking to connect with more blockchain developers!
 
 💬 Ask me about Blockchain Consulting, mentoring, or developing an app for you. 
 
 📫 Reach me at: adriandelgado.tech@gmail.com
 
-🎨 My portoflio site: [www.adriandelgado.dev](https://www.adriandelgado.dev)
+🎨 My portfolio site: [www.adriandelgado.dev](https://www.adriandelgado.dev)
 
 <!-- 🏆 My proudest project: [https://nft-dex.vercel.app/](https://nft-dex.vercel.app/) -->
 
-⚡ Fun fact: I love hiking, crypto, learning, & playing chess.⛰📈♟️ 
+🔥 My passions: Technology, Linux, hiking, & animals!
+
+💡 2022 Goal: Learn Rust 🦀
  
  
 ### 🔨 Languages and Tools:   

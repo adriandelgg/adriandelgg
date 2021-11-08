@@ -14,9 +14,6 @@ My dream is to impact the world forever using blockchain technology.🌎
 <a href="https://www.youtube.com/c/codeonblocks" target="_blank">
   <img src="./youtube.svg" align="left" alt="Adrian's YouTube" width="22px">
 </a>
-<a href="https://www.instagram.com/codeonblocks" target="_blank"> 
-  <img src="./Instagram.png" align="left" alt="Adrian's Instagram" width="22px">
-</a>
 <a href="https://www.twitter.com/codeonblocks" target="_blank">
   <img src="./Twitter.png" align="left" alt="Adrian's Twitter" width="22px">
 </a>
@@ -27,13 +24,13 @@ My dream is to impact the world forever using blockchain technology.🌎
 
 🤝 I'm looking to connect with more blockchain developers!
 
-💬 Ask me about Blockchain Consulting or developing an application for you. 
+💬 Ask me about Blockchain Consulting, mentoring, or developing an app for you. 
 
 📫 Reach me at: adriandelgado.tech@gmail.com
 
-🎨 My portoflio site: www.adriandelgado.dev
+🎨 My portoflio site: [www.adriandelgado.dev](https://www.adriandelgado.dev)
 
-🏆 My proudest project: https://nft-dex.vercel.app/
+<!-- 🏆 My proudest project: [https://nft-dex.vercel.app/](https://nft-dex.vercel.app/) -->
 
 ⚡ Fun fact: I love hiking, crypto, learning, & playing chess.⛰📈♟️ 
  
@@ -49,6 +46,11 @@ My dream is to impact the world forever using blockchain technology.🌎
 <a href="https://redux.js.org/" target="_blank"><img align="left" alt="Redux" height ="42px" src="./redux.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> 
 <img align="left" alt="REST APIs" height ="42px" src="./api.svg">
+<img align="left" alt="MongoDB" height ="42px" src="./mongodb.svg">
+<img align="left" alt="Docker" height ="42px" src="./docker.svg">
+<img align="left" alt="GraphQL" height ="42px" src="./graphql.svg">
+<img align="left" alt="Azure" height ="42px" src="./azure.svg">
+<img align="left" alt="Pinata" height ="42px" src="./pinata.svg">
 <img align="left" alt="Bash" height ="42px" src="./bash.svg">
 <img align="left" alt="Chai" height ="42px" src="./chai.svg">
 <img align="left" alt="CSS3" height ="42px" src="./css.svg">
@@ -66,6 +68,8 @@ My dream is to impact the world forever using blockchain technology.🌎
 <a href="https://ubuntu.com/" target="_blank"><img src="./ubuntu.svg" alt="Ubuntu" align="left" height='36px'/></a>
 <a href="https://www.npmjs.com/" target="_blank"><img src="./npm.svg" alt="npm" align="left" height='42px'/></a>
 <a href="https://mochajs.org/" target="_blank"><img src="./mochajs.svg" alt="Mocha" align="left" height='42px'/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/></a> 
+
 
 
 
@@ -79,7 +83,3 @@ My dream is to impact the world forever using blockchain technology.🌎
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriandelgg&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriandelgg&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- 
-<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/></a> 
--->

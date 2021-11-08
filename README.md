@@ -61,7 +61,6 @@ My dream is to impact the world forever using blockchain technology.🌎
 <img align="left" alt="IPFS" height ="42px" src="./ipfs.svg">
 <img src="./web3js.svg" alt="Web3.js" align="left" height='34px'/>
 <img align="left" alt="JavaScript" height ="42px"  src="./javascript.svg">
-<img src="./sql.svg" alt="SQL" align="left" height='34px'/>
 <img src="./nextjs.png" alt="Next.js" align="left" height='34px'/>
 <img src="./jest.svg" alt="Jest" align="left" height='34px'/>
 <img align="left" alt="Material UI" height ="42px" src="./materialui.svg">
@@ -70,6 +69,8 @@ My dream is to impact the world forever using blockchain technology.🌎
 <img src="./linux.svg" alt="Linux" align="left" height='36px'/>
 <img src="./mochajs.svg" alt="Mocha" align="left" height='42px'/>
 <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px' align="left"/> 
+
+
 
 
 

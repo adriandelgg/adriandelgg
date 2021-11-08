@@ -32,7 +32,7 @@ My dream is to impact the world forever using blockchain technology.🌎
 
 <!-- 🏆 My proudest project: [https://nft-dex.vercel.app/](https://nft-dex.vercel.app/) -->
 
-🔥 My passions: Technology, Linux, hiking, & animals!
+🔥 My passions: Tech, Linux, coding, crypto, hiking, & animals!
 
 💡 2022 Goal: Learn Rust 🦀
  

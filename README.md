@@ -71,10 +71,6 @@ My dream is to impact the world forever using blockchain technology.🌎
 <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px' align="left"/> 
 
 
-
-
-
-
 <br>
 <br>
 <br>
@@ -82,7 +78,6 @@ My dream is to impact the world forever using blockchain technology.🌎
 <br>
 <br>
 
-### 📊 Github Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriandelgg&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriandelgg&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)

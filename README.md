@@ -22,7 +22,7 @@ My dream is to impact the world forever through code.🌎
 
 ![visitors](https://page-views.glitch.me/badge?page_id=adriandelgg.visitor-badge)
 
-💡 I'm currently learning Rust!🦀
+💡 I'm currently learning Rust! 🦀
 
 🤝 I'm looking to connect with more blockchain developers!
 

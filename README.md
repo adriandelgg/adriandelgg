@@ -10,13 +10,13 @@ My dream is to impact the world forever through code.🌎
 <img align="right" alt="GIF" src="./code.gif" width="410" height="280" />
 
 <a href="https://www.linkedin.com/in/adriandelgado1/" target="_blank">
-  <img src="./LinkedIn.png" align="left" alt="Adrian's LinkedIn" width="22px">
+  <img src="./LinkedIn.png" align="left" alt="Adrian's LinkedIn" width="25px">
 </a>
 <a href="https://www.youtube.com/c/codeonblocks" target="_blank">
-  <img src="./youtube.svg" align="left" alt="Adrian's YouTube" width="22px">
+  <img src="./youtube.svg" align="left" alt="Adrian's YouTube" width="25px">
 </a>
 <a href="https://www.twitter.com/codeonblocks" target="_blank">
-  <img src="./Twitter.png" align="left" alt="Adrian's Twitter" width="22px">
+  <img src="./Twitter.png" align="left" alt="Adrian's Twitter" width="25px">
 </a>
 
 
@@ -39,10 +39,10 @@ My dream is to impact the world forever through code.🌎
  
 ### 🔨 Languages and Tools:   
 
-<img align="center" src="./solidity.svg" alt="Solidity" height='37px'/>
-<img align="center" alt="React" height ="42px" src="./react.svg">
-<img align="center" alt="TypeScript" height ="42px" src="./typescript.svg">
-<img align="center" alt="Ethers.js" height ="42px" src="./ethers.svg">
+<img align="left" src="./solidity.svg" alt="Solidity" height='37px'/>
+<img align="left" alt="React" height ="42px" src="./react.svg">
+<img align="left" alt="TypeScript" height ="42px" src="./typescript.svg">
+<img align="left" alt="Ethers.js" height ="42px" src="./ethers.svg">
 <img align="left" alt="Hardhat" height ="42px" src="./hardhat.svg">
 <img align="left" alt="MongoDB" height ="42px" src="./mongodb.svg">
 <img align="left" alt="Docker" height ="42px" src="./docker.svg">
@@ -59,16 +59,16 @@ My dream is to impact the world forever through code.🌎
 <img align="left" alt="CSS3" height ="42px" src="./css.svg">
 <img align="left" alt="HTML5" height ="42px" src="./html.svg">
 <img align="left" alt="IPFS" height ="42px" src="./ipfs.svg">
-<img src="./web3js.svg" alt="Web3.js" align="left" height='34px'/>
+<img align="left" src="./web3js.svg" alt="Web3.js" height='34px'/>
 <img align="left" alt="JavaScript" height ="42px"  src="./javascript.svg">
-<img src="./nextjs.png" alt="Next.js" align="left" height='34px'/>
-<img src="./jest.svg" alt="Jest" align="left" height='34px'/>
+<img align="left" src="./nextjs.png" alt="Next.js" height='34px'/>
+<img align="left" src="./jest.svg" alt="Jest" height='34px'/>
 <img align="left" alt="Material UI" height ="42px" src="./materialui.svg">
-<img src="./bootstrap.png" alt="BootStrap" align="left" height='36px'/>
-<img src="./git.svg" align="left" alt="git" height='42px'/>
-<img src="./linux.svg" alt="Linux" align="left" height='36px'/>
-<img src="./mochajs.svg" alt="Mocha" align="left" height='42px'/>
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px' align="left"/> 
+<img align="left" src="./bootstrap.png" alt="BootStrap" height='36px'/>
+<img align="left" src="./git.svg" alt="git" height='42px'/>
+<img align="left" src="./linux.svg" alt="Linux" height='36px'/>
+<img align="left" src="./mochajs.svg" alt="Mocha" height='42px'/>
+<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px' align="left"/> 
 
 
 <br>

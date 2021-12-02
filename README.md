@@ -40,10 +40,10 @@ My dream is to impact the world forever through code.🌎
 ### 🔨 Languages and Tools:   
 
 <img src="./solidity.svg" alt="Solidity" align="left" height='34px'/>
-<img alt="React" height ="42px" src="./react.svg">
-<img alt="TypeScript" height ="42px" src="./typescript.svg">
-<img alt="Ethers.js" height ="42px" src="./ethers.svg">
-<img alt="Hardhat" height ="42px" src="./hardhat.svg">
+<img align="center" alt="React" height ="42px" src="./react.svg">
+<img align="center" alt="TypeScript" height ="42px" src="./typescript.svg">
+<img align="center" alt="Ethers.js" height ="42px" src="./ethers.svg">
+<img align="left" alt="Hardhat" height ="42px" src="./hardhat.svg">
 <img align="left" alt="MongoDB" height ="42px" src="./mongodb.svg">
 <img align="left" alt="Docker" height ="42px" src="./docker.svg">
 <img align="left" alt="GraphQL" height ="42px" src="./graphql.svg">

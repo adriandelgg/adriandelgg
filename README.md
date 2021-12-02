@@ -39,7 +39,7 @@ My dream is to impact the world forever through code.🌎
  
 ### 🔨 Languages and Tools:   
 
-<img src="./solidity.svg" alt="Solidity" align="left" height='34px'/>
+<img align="center" src="./solidity.svg" alt="Solidity" height='37px'/>
 <img align="center" alt="React" height ="42px" src="./react.svg">
 <img align="center" alt="TypeScript" height ="42px" src="./typescript.svg">
 <img align="center" alt="Ethers.js" height ="42px" src="./ethers.svg">

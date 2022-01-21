@@ -5,7 +5,7 @@ My name is Adrian Delgado, I'm a self-taught Full-Stack Blockchain Software Engi
 Since the age of 2, I've always been fascinated by computers & loved spending hours playing on them! 
 I'm currently working as a Blockchain Developer & Consultant, Web Developer, & Computer Technician.👨‍💻🖥️🔧 
 
-My dream is to impact the world forever through code.🌎 
+My dream is to impact the world forever with my creations.🌎 
 
 <img align="right" alt="GIF" src="./code.gif" width="410" height="280" />
 

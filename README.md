@@ -1,91 +1,83 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Adrian Delgado
+======================================================================================================================================
 
-My name is Adrian Delgado, I'm a self-taught Full-Stack Blockchain Software Engineer.
+Full-Stack Blockchain & Web Developer
+-------------------------------------
 
-Since the age of 2, I've always been fascinated by computers & loved spending hours playing on them! 
-I'm currently working as a Blockchain Developer & Consultant, Web Developer, & Computer Technician.👨‍💻🖥️🔧 
+Since the age of 2, I've always been fascinated by computers & loved spending hours playing on them!
 
-My dream is to impact the world forever with my creations.🌎 
-
-<img align="right" alt="GIF" src="./code.gif" width="410" height="280" />
-
-<a href="https://www.linkedin.com/in/adriandelgado1/" target="_blank">
-  <img src="./LinkedIn.png" align="left" alt="Adrian's LinkedIn" width="25px">
-</a>
-<a href="https://www.youtube.com/c/codeonblocks" target="_blank">
-  <img src="./youtube.svg" align="left" alt="Adrian's YouTube" width="25px">
-</a>
-<a href="https://www.twitter.com/codeonblocks" target="_blank">
-  <img src="./Twitter.png" align="left" alt="Adrian's Twitter" width="25px">
-</a>
+* 🌍  I'm based in San Antonio, TX
+* 🎨  See my portfolio at [www.adriandelgado.dev](http://www.adriandelgado.dev)
+* 📫  You can contact me at [adriandelgado.tech@gmail.com](mailto:adriandelgado.tech@gmail.com)
+* 🤝  I'm open to collaborating on blockchain or backend projects.
+* 💬  Ask me about Blockchain Consulting, mentoring, or developing an app for you.
 
 
 ![visitors](https://page-views.glitch.me/badge?page_id=adriandelgg.visitor-badge)
-
-💡 I'm currently learning Rust! 🦀
-
-🤝 I'm looking to connect with more blockchain developers!
-
-💬 Ask me about Blockchain Consulting, mentoring, or developing an app for you. 
-
-🔥 My passions: Tech, Linux, coding, crypto, hiking, & animals!
-
-📫 Reach me at: adriandelgado.tech@gmail.com
-
-🎨 My portfolio site: [www.adriandelgado.dev](https://www.adriandelgado.dev)
-
-<!-- 🏆 My proudest project: [https://nft-dex.vercel.app/](https://nft-dex.vercel.app/) -->
- 
- 
-### 🔨 Languages and Tools:   
-
-<img align="left" src="./solidity.svg" alt="Solidity" height='37px'/>
-<img align="left" alt="React" height ="42px" src="./react.svg">
-<img align="left" alt="TypeScript" height ="42px" src="./typescript.svg">
-<img align="left" alt="Ethers.js" height ="42px" src="./ethers.svg">
-<img align="left" alt="Hardhat" height ="42px" src="./hardhat.svg">
-<img align="left" alt="MongoDB" height ="42px" src="./mongodb.svg">
-<img align="left" alt="Docker" height ="42px" src="./docker.svg">
-<img align="left" alt="GraphQL" height ="42px" src="./graphql.svg">
-<img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg">
-<img align="left" alt="Redux" height ="42px" src="./redux.svg">
-<img align="left" alt="Tailwind CSS" height ="42px" src="./tailwindcss.svg">
-<img align="left" alt="Truffle" height ="42px" src="./truffle.svg">
-<img align="left" alt="REST APIs" height ="42px" src="./api.svg">
-<img align="left" alt="Azure" height ="42px" src="./azure.svg">
-<img align="left" alt="Pinata" height ="42px" src="./pinata.svg">
-<img align="left" alt="Bash" height ="42px" src="./bash.svg">
-<img align="left" alt="Chai" height ="42px" src="./chai.svg">
-<img align="left" alt="CSS3" height ="42px" src="./css.svg">
-<img align="left" alt="HTML5" height ="42px" src="./html.svg">
-<img align="left" alt="IPFS" height ="42px" src="./ipfs.svg">
-<img align="left" src="./web3js.svg" alt="Web3.js" height='34px'/>
-<img align="left" alt="JavaScript" height ="42px"  src="./javascript.svg">
-<img align="left" src="./nextjs.png" alt="Next.js" height='34px'/>
-<img align="left" src="./jest.svg" alt="Jest" height='34px'/>
-<img align="left" alt="Material UI" height ="42px" src="./materialui.svg">
-<img align="left" src="./bootstrap.png" alt="BootStrap" height='36px'/>
-<img align="left" src="./git.svg" alt="git" height='42px'/>
-<img align="left" src="./linux.svg" alt="Linux" height='36px'/>
-<img align="left" src="./mochajs.svg" alt="Mocha" height='42px'/>
-<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px' align="left"/> 
+<a href="https://www.github.com/adriandelgg" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/adriandelgg?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+### Skills
 
 
+<p align="left">
+<img src="./solidity.svg" alt="Solidity" width="36" height="36"/>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<img alt="Docker" width="36" height="36" src="./docker.svg"/
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+<a href="https://thegraph.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/the-graph-colored.svg" width="36" height="36" alt="The Graph" /></a>
+<a href="https://ethers.io" target="_blank" rel="noreferrer"><img alt="Ethers.js" width="36" height="36" src="./ethers.svg"/></a>
+<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
+<a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
+<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
+<a href="https://trufflesuite.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" /></a>
+<a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored-dark.svg" width="36" height="36" alt="IPFS" /></a>
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+<a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
+<a href="https://www.avax.network/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/avalanche-colored.svg" width="36" height="36" alt="Avalanche" /></a>
+<a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
+<a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" alt="Chainlink" /></a>
+<img alt="Azure" width="36" height="36" src="./azure.svg">
+<img alt="Pinata" width="36" height="36" src="./pinata.svg"/>
+<img alt="Bash" width="36" height="36" src="./bash.svg"/>
+<img alt="Chai" width="36" height="36" src="./chai.svg"/>
+<img src="./jest.svg" alt="Jest" width="36" height="36"/>
+<img src="./git.svg" alt="git" width="36" height="36"/>
+<img src="./linux.svg" alt="Linux" width="36" height="36"/>
+<img src="./mochajs.svg" alt="Mocha" width="36" height="36"/>
+</p>
 
 
+### Socials
 
+<p align="left"> <a href="https://www.linkedin.com/in/adriandelgado1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.dev.to/adriandelgg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/adriandelgg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/8877558" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
+
+### My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriandelgg&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriandelgg&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/adriandelgg"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

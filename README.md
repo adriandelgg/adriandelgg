@@ -13,9 +13,9 @@ Since the age of 2, I've always been fascinated by computers & loved spending ho
 * 💬  Ask me about Blockchain Consulting, mentoring, or developing an app for you.
 
 
-![visitors](https://page-views.glitch.me/badge?page_id=adriandelgg.visitor-badge)
-<a href="https://www.github.com/adriandelgg" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/adriandelgg?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
+![visitors](https://page-views.glitch.me/badge?page_id=codeonblocks.visitor-badge)
+<a href="https://www.github.com/codeonblocks" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/codeonblocks?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
 
 
 ### Skills

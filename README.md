@@ -1,4 +1,4 @@
-Hi, my name is Adrian Delgado ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+Hi, my name is Adrian ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 ======================================================================================================================================
 
 Full-Stack Blockchain & Web Developer
@@ -6,14 +6,13 @@ Full-Stack Blockchain & Web Developer
 
 Since the age of 2, I've always been fascinated by computers & loved spending hours playing on them!
 
-* 🌍  I'm based in San Antonio, TX
+* 🌍  I'm based in Texas, USA
 * 🎨  See my portfolio at [www.adriandelgado.dev](http://www.adriandelgado.dev)
 * 📫  You can contact me at [adriandelgado.tech@gmail.com](mailto:adriandelgado.tech@gmail.com)
 * 🤝  I'm open to collaborating on blockchain or backend projects.
 * 💬  Ask me about Blockchain Consulting, mentoring, or developing an app for you.
 
 
-![visitors](https://page-views.glitch.me/badge?page_id=codeonblocks.visitor-badge)
 <a href="https://www.github.com/codeonblocks" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/codeonblocks?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
 
@@ -69,7 +68,7 @@ src="https://img.shields.io/github/followers/codeonblocks?logo=github&style=for-
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/adriandelgado1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.dev.to/adriandelgg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/adriandelgg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/8877558" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/adriandelgado1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.dev.to/adriandelgg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/8877558" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 
 ### Support Me

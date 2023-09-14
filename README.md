@@ -13,10 +13,6 @@ Since the age of 2, I've always been fascinated by computers & loved spending ho
 * 💬  Ask me about Blockchain Consulting, mentoring, or developing an app for you.
 
 
-<a href="https://www.github.com/codeonblocks" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/codeonblocks?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
-
-
 ### Skills
 
 
@@ -68,7 +64,7 @@ src="https://img.shields.io/github/followers/codeonblocks?logo=github&style=for-
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/adriandelgado1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.dev.to/adriandelgg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/8877558" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/adriandelgado1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.dev.to/adriandelgg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a></p>
 
 
 ### Support Me

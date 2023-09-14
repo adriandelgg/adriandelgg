@@ -6,8 +6,8 @@ Full-Stack Blockchain & Web Developer
 
 Since the age of 2, I've always been fascinated by computers & loved spending hours playing on them!
 
-* 🌍  I'm based in Texas, USA
-* 🎨  See my portfolio at [www.adriandelgado.dev](http://www.adriandelgado.dev)
+* 🌎  I'm based in Texas, USA
+* 🎨  See my portfolio at [www.adriandelgado.dev](https://www.adriandelgado.dev)
 * 📫  You can contact me at [adriandelgado.tech@gmail.com](mailto:adriandelgado.tech@gmail.com)
 * 🤝  I'm open to collaborating on blockchain or backend projects.
 * 💬  Ask me about Blockchain Consulting, mentoring, or developing an app for you.

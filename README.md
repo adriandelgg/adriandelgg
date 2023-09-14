@@ -64,7 +64,7 @@ Since the age of 2, I've always been fascinated by computers & loved spending ho
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/adriandelgado1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.dev.to/adriandelgg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/adriandelgg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.dev.to/adriandelgg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a></p>
 
 
 ### Support Me

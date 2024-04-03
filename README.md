@@ -8,7 +8,8 @@ Since the age of 2, I've always been fascinated by computers & loved spending ho
 
 * 🌎  I'm based in Texas, USA
 * 🎨  See my portfolio at [adriandelgado.dev](https://www.adriandelgado.dev)
-* 📫  You can contact me at [adriandelgado.tech@gmail.com](mailto:adriandelgado.tech@gmail.com)
+* 👥  Connect with me on [LinkedIn](https://www.linkedin.com/in/adriandelgg)!
+* 📫  You can email me at [adriandelgado.tech@gmail.com](mailto:adriandelgado.tech@gmail.com)
 * 🤝  I'm open to collaborating on blockchain or backend projects.
 * 💬  Ask me about Blockchain Consulting, mentoring, or developing an app for you.
 
